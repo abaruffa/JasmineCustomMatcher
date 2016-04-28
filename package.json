@@ -1,0 +1,25 @@
+{
+  "name": "jasminecustommatcher",
+  "version": "0.0.0",
+  "description": "Custom jasmine matcher with better error messages.",
+  "main": "src/toMatchString.js",
+  "scripts": {
+    "test": "jasmine",
+    "eslint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JasmineCustomMatcher"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "jasmine": "^2.4.1",
+    "underscore": "^1.8.3"
+  },
+  "keywords": [
+    "jasmine",
+    "customMatcher"
+  ],
+  "author": "abaruffa",
+  "license": "MIT"
+}
